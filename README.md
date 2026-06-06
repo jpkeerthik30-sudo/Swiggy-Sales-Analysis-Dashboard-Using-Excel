@@ -43,14 +43,14 @@ The dashboard enables users to monitor sales trends, customer ratings, order vol
 - Slicers
 - Dashboard Design
 - KPI Reporting
-- 
+  
 📈 Key Insights
 - Non-Veg food contributes approximately 63% of total sales, making it the dominant category.
 - Bengaluru is the highest revenue-generating city with over ₹5.4M in sales.
 - Weekend sales outperform weekday sales, with Saturday recording the highest revenue.
 - Customer satisfaction remains strong with an average rating of 4.34.
 - Sales performance is relatively stable across weeks, indicating consistent customer demand.
-- 
+  
 🚀 Conclusion
 
 - The Swiggy Sales Analysis Dashboard demonstrates how Microsoft Excel can be used to build powerful business intelligence solutions. Through interactive visualizations and KPI tracking, the dashboard provides valuable insights into sales performance, customer behavior, and market trends, helping businesses make informed strategic decisions.
